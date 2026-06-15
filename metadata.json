@@ -1,0 +1,6 @@
+{
+  "name": "Brand Identity Design",
+  "description": "صفحة هبوط احترافية لعرض وطلب خدمات تصميم الهوية البصرية والشعارات للشركات الناشئة وأصحاب المشاريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
