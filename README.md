@@ -25,3 +25,18 @@ Built with lightweight and powerful tools to ensure optimal performance:
 ├── assets/             # Folder for images, custom CSS, or JS files
 └── README.md           # Project documentation
 ```
+
+## Getting Started
+
+### Prerequisites
+- Node.js installed on your machine.
+
+### Installation
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
